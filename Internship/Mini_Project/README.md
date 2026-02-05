@@ -16,3 +16,24 @@ Save and reuse trained models
 Predict house prices for new/unseen data
 
 The project uses Random Forest Regression along with Scikit-learn Pipelines to ensure clean, reusable, and production-ready code.
+
+
+
+
+✍️ Handwritten Digit Recognition using Neural Network (MNIST)
+
+This project implements a Neural Network–based image classification system to recognize handwritten digits using the MNIST dataset. It demonstrates an end-to-end deep learning workflow including data preprocessing, model training, evaluation, and prediction of handwritten digits.
+
+📌 Project Overview
+
+The goal of this project is to:
+
+Build a Neural Network classifier for handwritten digit recognition
+
+Load and preprocess the MNIST handwritten digit dataset
+
+Train the model to correctly classify digits from 0 to 9
+
+Evaluate model performance using accuracy metrics
+
+Predict digits from unseen handwritten images

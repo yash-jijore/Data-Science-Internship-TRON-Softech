@@ -1,4 +1,4 @@
-🏠 Housing Price Prediction using Machine Learning
+1]🏠 Housing Price Prediction using Machine Learning
 
 This project implements an end-to-end Machine Learning pipeline to predict median house prices using the California Housing dataset.
 It supports both training and inference in a single script and automatically switches modes based on model availability.
@@ -20,7 +20,9 @@ The project uses Random Forest Regression along with Scikit-learn Pipelines to e
 
 
 
-✍️ Handwritten Digit Recognition using Neural Network (MNIST)
+
+
+2]✍️ Handwritten Digit Recognition using Neural Network (MNIST)
 
 This project implements a Neural Network–based image classification system to recognize handwritten digits using the MNIST dataset. It demonstrates an end-to-end deep learning workflow including data preprocessing, model training, evaluation, and prediction of handwritten digits.
 

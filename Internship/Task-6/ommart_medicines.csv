@@ -1,0 +1,26 @@
+product_id,product_name,category,brand,price_inr
+1,Paracetamol 500mg Tablet,Tablet,Cipla,25
+2,Dolo 650 Tablet,Tablet,Micro Labs,30
+3,Crocin Advance Tablet,Tablet,GSK,28
+4,Azithromycin 500mg Tablet,Tablet,Sun Pharma,95
+5,Amoxicillin 500mg Capsule,Capsule,Mankind,85
+6,Ibuprofen 400mg Tablet,Tablet,Abbott,35
+7,Metformin 500mg Tablet,Tablet,USV,40
+8,Amlodipine 5mg Tablet,Tablet,Dr Reddy's,55
+9,Pantoprazole 40mg Tablet,Tablet,Cipla,60
+10,Cetirizine 10mg Tablet,Tablet,Glenmark,22
+11,Levocetirizine 5mg Tablet,Tablet,Intas,24
+12,Vitamin C 500mg Tablet,Supplement,Himalaya,45
+13,Calcium + Vitamin D Tablet,Supplement,HealthVit,120
+14,ORS Powder Sachet,Supplement,Dabur,18
+15,Disprin Tablet,Tablet,Reckitt,15
+16,Ranitidine 150mg Tablet,Tablet,Sun Pharma,32
+17,Domperidone 10mg Tablet,Tablet,Cipla,42
+18,Atorvastatin 10mg Tablet,Tablet,Zydus,75
+19,Losartan 50mg Tablet,Tablet,Alkem,65
+20,Multivitamin Tablet,Supplement,Revital,150
+21,Thyroxine 50mcg Tablet,Tablet,Abbott,48
+22,Clopidogrel 75mg Tablet,Tablet,Dr Reddy's,82
+23,Telmisartan 40mg Tablet,Tablet,Mankind,68
+24,Montelukast 10mg Tablet,Tablet,Cipla,58
+25,Folic Acid Tablet,Tablet,Zydus,20
